@@ -19,38 +19,38 @@
 
 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
-  color: #777777;
+  color: #000;
   font-weight: 300;
 }
 
 :-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
-  color: #777777;
+  color: #000;
   opacity: 1;
   font-weight: 300;
 }
 
 ::-moz-placeholder {
   /* Mozilla Firefox 19+ */
-  color: #777777;
+  color: #000000;
   opacity: 1;
   font-weight: 300;
 }
 
 :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
-  color: #777777;
+  color: #000000;
   font-weight: 300;
 }
 
 ::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: #777777;
+  color: #000000;
   font-weight: 300;
 }
 
 body {
-  color: #777777;
+  color: #000000;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -86,7 +86,7 @@ iframe {
 a, a:focus, a:hover {
   text-decoration: none;
   outline: 0;
-  color: #777777;
+  color: #000000;
 }
 
 .btn.active.focus,
@@ -783,7 +783,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .typography h1, .typography h2, .typography h3, .typography h4, .typography h5, .typography h6 {
-  color: #777777;
+  color: #000000;
 }
 
 .button-area {
@@ -1186,7 +1186,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list li span {
   font-weight: 300;
-  color: #777777;
+  color: #000000;
 }
 
 .ordered-list-alpha li {
@@ -1199,7 +1199,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list-alpha li span {
   font-weight: 300;
-  color: #777777;
+  color: #000000;
 }
 
 .ordered-list-roman li {
@@ -1212,7 +1212,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list-roman li span {
   font-weight: 300;
-  color: #777777;
+  color: #000000;
 }
 
 .single-input {
@@ -2226,7 +2226,7 @@ nav a:hover {
   display: inline-block;
   padding: 40px 0;
   font-size: 42px;
-  color: #777777;
+  color: #000000;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
